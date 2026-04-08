@@ -1,0 +1,1 @@
+--- TOP 5 CANDIDATOS SELECIONADOS --- 1º Ana Silva - Score: 100 - Local: Jardins 2º Carlos Viggo - Score: 80 - Local: Morumbi 3º Enzo Arantes - Score: 80 - Local: Pinheiros 4º Fernanda O. - Score: 50 - Local: Osasco 5º Helena Roça - Score: 50 - Local: S. Bernardo  === Code Execution Successful ===
